@@ -1,0 +1,16 @@
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\bin\Debug\net5.0\NumerosConsecutivos.exe
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\bin\Debug\net5.0\NumerosConsecutivos.deps.json
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\bin\Debug\net5.0\NumerosConsecutivos.runtimeconfig.json
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\bin\Debug\net5.0\NumerosConsecutivos.runtimeconfig.dev.json
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\bin\Debug\net5.0\NumerosConsecutivos.dll
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\bin\Debug\net5.0\ref\NumerosConsecutivos.dll
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\bin\Debug\net5.0\NumerosConsecutivos.pdb
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\obj\Debug\net5.0\NumerosConsecutivos.csproj.AssemblyReference.cache
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\obj\Debug\net5.0\NumerosConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\obj\Debug\net5.0\NumerosConsecutivos.AssemblyInfoInputs.cache
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\obj\Debug\net5.0\NumerosConsecutivos.AssemblyInfo.cs
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\obj\Debug\net5.0\NumerosConsecutivos.csproj.CoreCompileInputs.cache
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\obj\Debug\net5.0\NumerosConsecutivos.dll
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\obj\Debug\net5.0\ref\NumerosConsecutivos.dll
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\obj\Debug\net5.0\NumerosConsecutivos.pdb
+C:\workspace\UdemyC#\Desafios\NumerosConsecutivos\NumerosConsecutivos\obj\Debug\net5.0\NumerosConsecutivos.genruntimeconfig.cache
